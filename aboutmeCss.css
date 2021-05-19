@@ -1,0 +1,14 @@
+body{
+    background-color:  #74992e;
+}
+h1,h2{
+    color: rebeccapurple;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.class1{
+    color: royalblue;
+}
+.class2:hover{
+    color: silver;
+
+}
